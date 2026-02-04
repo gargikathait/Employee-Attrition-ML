@@ -105,3 +105,4 @@ Employee-Attrition-ML/
 The Random Forest model effectively predicts employee attrition and highlights key factors influencing employee turnover.  
 This project demonstrates the practical application of machine learning in HR analytics and decision-making.
 
+# Employee-Attrition-ML
